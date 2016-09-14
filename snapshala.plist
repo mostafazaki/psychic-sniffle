@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string> http://dc584.4shared.com/download/qJkWakrYba/instagrm.ipa?tsid=20160914-053023-cbdf7c21&sbsr=b3911170427f1a9918273cf34aaf38de984&lgfp=2000 </string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://www.iclarified.com/jailbreak/pangu-pp/icon_96.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://www.iclarified.com/jailbreak/pangu-pp/icon_96.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ppjb.tools.carrier.gr</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>shall</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
